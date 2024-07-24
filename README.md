@@ -17,7 +17,7 @@ Usage
 
 To use this code, follow these steps:
 Clone the repository to your local machine:
-git clone https://github.com/your_username/skin-disease-prediction-gui.git
+git clone https://github.com/dusanepooja/skin-disease-prediction-gui.git
 
 Install the required dependencies:
 pip install -r requirements.txt
