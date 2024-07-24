@@ -1,0 +1,9 @@
+The code is written in Python and requires the following libraries:
+
+TensorFlow
+Keras
+OpenCV
+NumPy
+Pillow (PIL)
+tkinter
+
