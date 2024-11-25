@@ -15,10 +15,6 @@ Implementing a GUI using tkinter for user interaction
 Preprocessing images, predicting diseases, and displaying results in the GUI
 Usage
 
-To use this code, follow these steps:
-Clone the repository to your local machine:
-git clone https://github.com/dusanepooja/skin-disease-detection-gui.git
-
 Install the required dependencies:
 pip install -r requirements.txt
 
